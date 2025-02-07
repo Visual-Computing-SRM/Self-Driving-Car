@@ -51,3 +51,9 @@ NEAT evolves neural networks by adding new nodes and connections over generation
 The fitness of the car’s driving performance is evaluated based on how well it stays on the path.
 The algorithm evolves better strategies to improve the driving behavior over multiple iterations.
 
+
+Instructions
+Draw the Path: Click and hold the left mouse button to draw the path on the screen. The car will learn to follow the path you create.
+Press C to Continue: After drawing the path, press the C key to start the car's learning process and begin simulating.
+Toggle Path Lines with H: Press the H key to toggle the visibility of the drawn path lines. This allows you to view or hide the path as needed while the car is learning.
+
