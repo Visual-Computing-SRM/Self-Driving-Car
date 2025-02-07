@@ -33,3 +33,21 @@ python main.py
 
 The Pygame window will open, and you can start drawing the path for the car to follow.
 
+
+
+
+How It Works
+1. Drawing the Path
+Once the game window is open, you can draw the path by holding the mouse button down and moving the cursor along the path you want the car to follow.
+The path will be recorded, and the car will attempt to follow it by learning using the NEAT algorithm.
+
+2. Car Learning Process
+The car uses the NEAT algorithm to evolve its neural network through generations.
+Each generation tries to improve the car's performance by adjusting weights and connections in the neural network.
+The car continuously learns to drive along the drawn path by evaluating its performance, with each new generation becoming better.
+
+4. NEAT Algorithm
+NEAT evolves neural networks by adding new nodes and connections over generations.
+The fitness of the car’s driving performance is evaluated based on how well it stays on the path.
+The algorithm evolves better strategies to improve the driving behavior over multiple iterations.
+
