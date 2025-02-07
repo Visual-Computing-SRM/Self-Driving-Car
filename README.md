@@ -26,5 +26,9 @@ pip install pygame
 
 pip install neat-python
 
+Run the Project
+You can start the simulation by running:
+
+python main.py
 
 
