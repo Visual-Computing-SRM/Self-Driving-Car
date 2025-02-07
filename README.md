@@ -23,5 +23,6 @@ Install Dependencies
 Install pygame and neat-python by running the following commands in your terminal or command prompt:
 
 pip install pygame
+
 pip install neat-python
 
