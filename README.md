@@ -31,4 +31,5 @@ You can start the simulation by running:
 
 python main.py
 
+The Pygame window will open, and you can start drawing the path for the car to follow.
 
