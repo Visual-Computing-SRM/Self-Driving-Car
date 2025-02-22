@@ -29,7 +29,7 @@ pip install neat-python
 Run the Project
 You can start the simulation by running:
 
-(python main.py)
+[python main.py]
 
 The Pygame window will open, and you can start drawing the path for the car to follow.
 
